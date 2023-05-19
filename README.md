@@ -1,7 +1,7 @@
 # Sample of Nike
 
 
-![fitness](https://user-images.githubusercontent.com/107030945/232207053-51dccf68-fd96-4f6e-a92c-4070d57fb082.png) 
+![nike bg](https://github.com/javadashtiani/project/assets/134012615/6d3fe83f-fbf1-45e1-ac8e-677e4f3c3da5)
 
 - 🔗 [Demo Project](https://javadashtiani.github.io/project/)
 - 💻 Developed by Javad Ashtiani
