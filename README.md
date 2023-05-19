@@ -1,8 +1,7 @@
 # Sample of Nike
 
 
-![nike bg](https://github.com/javadashtiani/project/assets/134012615/6d3fe83f-fbf1-45e1-ac8e-677e4f3c3da5)
-
+![nikebg](https://github.com/javadashtiani/project/assets/134012615/7f810953-3559-410e-b831-020b51f0be4d)
 - 🔗 [Demo Project](https://javadashtiani.github.io/project/)
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
